@@ -15,5 +15,5 @@
 
 ## 重要な注意事項
 - 本プロジェクトを利用・改変・配布する際は、**AGPL-3.0 の条件に従う必要があります**。
-- ただし、Apache License のファイル（例: ``docs/static/themes/metro-dark.css`）については、**Apache License 2.0 の条件に従って使用できます**。
+- ただし、Apache License のファイル（例: `docs/static/themes/metro-dark.css`）については、**Apache License 2.0 の条件に従って使用できます**。
 - それぞれのライセンス条件を確認し、適切に取り扱ってください。
